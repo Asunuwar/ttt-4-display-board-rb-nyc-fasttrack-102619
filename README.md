@@ -319,9 +319,5 @@ If you open `spec/display_board_spec.rb` you'll see the test suite for this less
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/ttt-4-display-board-rb'>Display Tic Tac Toe Board</a> on Learn.co and start learning to code for free.</p>
-# def intro
-#   puts "Hello Spongebob"
-# end
-# # call the Method intro to display 
-# intro
+
 
